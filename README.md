@@ -1,5 +1,7 @@
 ## Price-Alert-Service
 
-Design Pattern
-- Models
-- Views will be serving HTML Pages so in essence view and controller work closely in this app
+#WorkInProgress
+Design Patterns
+- MVC
+     - Models
+     - Views will be serving HTML pages so in essence, view and controller work closely in this app
