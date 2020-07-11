@@ -1,4 +1,4 @@
-## Price-Alerts-Service
+## Price-Alert-Service
 
 Design Pattern
 - Models
