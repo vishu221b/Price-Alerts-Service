@@ -1,6 +1,7 @@
 ## Price-Alert-Service
 
 #WorkInProgress
+
 Design Patterns
 - MVC
      - Models
